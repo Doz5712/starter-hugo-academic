@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Electrical Engineering
-    institution: Arizona State University \\
+    institution: Arizona State University
     year: Expected in 2025
   - course: M.S. in Electrical Engineering
     institution: Arizona State University
