@@ -65,4 +65,4 @@ highlight_name: true
 
 Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/). His research interests include Electrical Engineering and Machine Learning. He has accomplished his M.S. degree at [Arizona State University](https://www.asu.edu) and a B.Eng. degree at [Shandong University](https://en.sdu.edu.cn/).
 
-{{<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 64C0 28.65 28.65 0 64 0H224V128C224 145.7 238.3 160 256 160H384V448C384 483.3 355.3 512 320 512H64C28.65 512 0 483.3 0 448V64zM256 128V0L384 128H256z"/></svg>}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
