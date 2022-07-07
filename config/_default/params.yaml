@@ -3,11 +3,17 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# Appearance:
+#  theme_day: Earth   
+#  theme_night: Earth
+#  day_night: true
+# font: 'Classic'
+#  font_size: L
+
 appearance:
-  theme_day: Earth   
+  theme_day: Earth
   theme_night: Earth
-  day_night: true
-  font: 'Classic'
+  font: Classic
   font_size: L
 
 # SEO
