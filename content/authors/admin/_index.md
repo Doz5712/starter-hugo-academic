@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-Jiaqi is a Ph.D. student in the School of Electrical, Computer and Energy Engineering of Arizona State University, supervised by Prof. Yang Weng. His research interests include Electrical Engineering and Machine Learning. He has accomplished his M.S. degree at Arizona State University and a B.Eng. degree at Shandong University(https://en.sdu.edu.cn/).
+Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/). His research interests include Electrical Engineering and Machine Learning. He has accomplished his M.S. degree at [Arizona State University](https://www.asu.edu) and a B.Eng. degree at [Shandong University](https://en.sdu.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
