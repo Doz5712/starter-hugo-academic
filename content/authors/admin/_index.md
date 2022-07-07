@@ -6,7 +6,7 @@ title: Jiaqi Wu
 superuser: true
 
 # Role/position/tagline
-# role: Professor of Artificial Intelligence
+ role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ education:
   - course: Ph.D. in Electrical Engineering
     institution: Arizona State University
     year: Expected in 2025
-  - course: M.S. in Electrical Engineering
+  - course: M.Sc. in Electrical Engineering
     institution: Arizona State University
     year: 2021
   - course: B.Eng. in Electrical Engineering
