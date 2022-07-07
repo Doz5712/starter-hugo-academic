@@ -5,7 +5,8 @@
 
 # Appearance
 
-theme: Earth
+theme_day: Earth   
+theme_night: Earth
 day_night: true
 font: 'Classic'
 font_size: L
