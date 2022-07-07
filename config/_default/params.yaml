@@ -24,7 +24,8 @@ twitter: ''
 email: jiaqiwu1@asu.edu
 phone: 480-399-8752
 address:
-  street: ERC 516, Engineering Research Center (ERC), 551 E Tyler Mall
+  unit: ERC 516, Engineering Research Center (ERC)
+  street: 551 E Tyler Mall
   city: Tempe
   region: AZ
   postcode: '85281'
