@@ -6,7 +6,7 @@ title: Jiaqi Wu
 superuser: true
 
 # Role/position/tagline
- role: Ph.D. student
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ education:
   - course: Ph.D. in Electrical Engineering
     institution: Arizona State University
     year: Expected in 2025
-  - course: M.Sc. in Electrical Engineering
+  - course: M.S. in Electrical Engineering
     institution: Arizona State University
     year: 2021
   - course: B.Eng. in Electrical Engineering
@@ -42,12 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Doz5712
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jiaqi-wu-35b615241
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,4 +71,4 @@ highlight_name: true
 
 Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/). His research interests include Electrical Engineering and Machine Learning. He has accomplished his M.S. degree at [Arizona State University](https://www.asu.edu) and a B.Eng. degree at [Shandong University](https://en.sdu.edu.cn/).
 
-{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
