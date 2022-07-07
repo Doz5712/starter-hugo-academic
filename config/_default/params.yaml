@@ -23,21 +23,20 @@ twitter: ''
 email: jiaqiwu1@asu.edu
 phone: 480-399-8752
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: ERC 516, Engineering Research Center (ERC), 551 E Tyler Mall
+  city: Tempe
+  region: AZ
+  postcode: '85281'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
 contact_links:
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
