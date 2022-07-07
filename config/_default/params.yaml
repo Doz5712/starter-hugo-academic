@@ -23,6 +23,7 @@ twitter: ''
 
 email: wjq.doz@asu.edu
 phone: 480-399-8752
+directions: ERC 516, Engineering Research Center (ERC)
 address: 
   street: ERC 516, Engineering Research Center (ERC)
 address: 
@@ -32,7 +33,7 @@ address:
   postcode: '85281'
   country: United States
   country_code: US
-#directions: ERC 516, Engineering Research Center (ERC)
+#
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
