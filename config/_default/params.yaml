@@ -27,14 +27,14 @@ twitter: ''
 
 email: wjq.doz@asu.edu
 phone: 480-399-8752
-directions: ERC 516, ASU Engineering Research Center (ERC)
+directions: 551 E Tyler Mall, Tempe, AZ, US, 85281
 address: 
-  street: 551 E Tyler Mall
-  city: Tempe
-  region: AZ
-  postcode: '85281'
-  country: United States
-  country_code: US
+  street: ERC 516, ASU Engineering Research Center (ERC)
+#  city: Tempe
+#  region: AZ
+#  postcode: '85281'
+#  country: United States
+#  country_code: US
 #
 #coordinates:
 #  latitude: '37.4275'
