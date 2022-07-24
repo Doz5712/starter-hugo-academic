@@ -31,8 +31,8 @@ directions: 551 E Tyler Mall, Tempe, AZ, 85281
 address: 
 #  street: ERC 516, ASU Engineering Research Center (ERC)
 #  city: Tempe
-#  region: ERC 516, ASU Engineering Research Center (ERC)
-#  postcode: '85281'
+  region: ERC 516, ASU Engineering Research Center (ERC)
+  postcode: ASU Engineering Research Center (ERC)
 #  country: United States
 #  country_code: US
 #
