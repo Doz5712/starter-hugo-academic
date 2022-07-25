@@ -30,7 +30,7 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
         
         * Analysing
         * Modelling
