@@ -29,7 +29,7 @@ experience:
     location:
     date_start: '2021-01-01'
     date_end: ''
-    description: 
+    description: |2-
         Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
         
         
