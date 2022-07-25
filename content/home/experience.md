@@ -43,7 +43,27 @@ experience:
     location:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      Taught electronic engineering and researched semiconductor physics.
+
+  - title: Graduate Service Assistant
+    company: Arizona State University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: 
+
+  - title: Undergraduate Service Assistant
+    company: Shandong University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: 
+
 
 design:
   columns: '2'
