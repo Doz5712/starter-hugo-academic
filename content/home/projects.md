@@ -10,39 +10,61 @@ headless: true
 weight: 80
 
 title: Projects
-subtitle: ''
+subtitle:
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Research Assistant
+    company: Arizona State University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Teaching Assistant
+    company: Arizona State University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: |2-
+      Taught electronic engineering and researched semiconductor physics.
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - title: Graduate Service Assistant
+    company: Arizona State University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: 
+
+  - title: Undergraduate Service Assistant
+    company: Shandong University
+    company_url: ''
+    company_logo:
+    location:
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: 
+
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 1
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
