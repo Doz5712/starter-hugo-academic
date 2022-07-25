@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Enhancing Grid Reliability and Resilience through Novel DER Control, Total Situational Awareness, and Integrated Distribution-Transmission Representation
-    company: Arizona State University
+    company: SETO
     company_url: 'https://www.energy.gov/eere/solar/project-profile-arizona-state-university-assist'
     company_logo:
     location:
