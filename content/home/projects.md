@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Arizona State University
-    company_url: ''
+    company_url: 'https://www.energy.gov/eere/solar/project-profile-arizona-state-university-assist'
     company_logo:
     location:
     date_start: '2021-01-01'
