@@ -22,18 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Enhancing Grid Reliability and Resilience through Novel DER Control, Total Situational Awareness, and Integrated Distribution-Transmission Representation
-    company: SETO
-    company_url: 'https://www.energy.gov/eere/solar/project-profile-arizona-state-university-assist'
+  - title: Research Assistant
+    company: Arizona State University
+    company_url: ''
     company_logo:
     location:
     date_start: '2021-01-01'
     date_end: ''
-    description: 
-    Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
+    description: |2-
+        Responsibilities include:
         
-
-
+        * Analysing
+        * Modelling
+        * Deploying
+        
 
 design:
   columns: '2'
