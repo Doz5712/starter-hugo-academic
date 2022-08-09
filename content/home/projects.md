@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Solar Energy Technologies Office (SETO) | Office of Energy Efficiency and Renewable Energy (EERE) | U.S. Department of Energy (DOE)
+  - title: Solar Energy Technologies Office (SETO) | Office of Energy Efficiency and Renewable Energy (EERE) | U.S. Department of Energy (U.S. DOE)
     company: Enhancing Grid Reliability and Resilience through Novel DER Control, Total Situational Awareness, and Integrated Distribution-Transmission Representation
     company_url: 'https://www.energy.gov/eere/solar/project-profile-arizona-state-university-assist'
     company_logo:
