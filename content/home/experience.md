@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo:
     location:
-    date_start: '2021-01-01'
+    date_start: '2021-05-16'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo:
     location:
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2021-08-09'
+    date_end: '2022-05-15'
     description: |2-
       Taught electronic engineering and researched semiconductor physics.
 
@@ -51,8 +51,8 @@ experience:
     company_url: ''
     company_logo:
     location:
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-12-28'
+    date_end: '2021-08-08'
     description: 
 
   - title: Undergraduate Service Assistant
@@ -60,8 +60,8 @@ experience:
     company_url: ''
     company_logo:
     location:
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2014-03-01'
+    date_end: '2016-06-01'
     description: 
 
 
