@@ -30,8 +30,9 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
-        Award Number: DE-EE0008773
+        * Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
+        * Award Number: DE-EE0008773
+        
         
 
 design:
