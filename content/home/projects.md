@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.energy.gov/eere/solar/project-profile-arizona-state-university-assist'
     company_logo:
     location:
-    date_start: '2021-01-01'
+    date_start: '2020-08-08'
     date_end: ''
     description: |2-
         * Funding Opportunity: Advanced Systems Integration for Solar Technologies: Situational Awareness and Resilient Solutions for Critical Infrastructure
