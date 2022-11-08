@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests: 
 - Power System
-- Artificial Intelligence
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -63,6 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/). His research interests include Electrical Engineering and Machine Learning. He received his B.Sc. degree in electrical engineering from [Shandong University, Jinan, China](https://en.sdu.edu.cn/) and his M.Sc. degree in electrical engineering from [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu).
+Jiaqi is a Ph.D. student in the [School of Electrical, Computer and Energy Engineering](https://ecee.engineering.asu.edu/) of [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu), supervised by [Prof. Yang Weng](https://www.public.asu.edu/~yweng2/). His research interests include Electrical Engineering and Artificial Intelligence. He received his B.Sc. degree in electrical engineering from [Shandong University, Jinan, China](https://en.sdu.edu.cn/) and his M.Sc. degree in electrical engineering from [Arizona State University, Tempe, AZ, U.S.](https://www.asu.edu).
 
 {{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
