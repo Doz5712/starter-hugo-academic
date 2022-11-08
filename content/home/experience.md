@@ -30,11 +30,11 @@ experience:
     date_start: '2021-05-16'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#Responsibilities include:
+
+#* Holding office hours
+#* Teaching
+#* G
         
   - title: Teaching Assistant
     company: Arizona State University
@@ -44,7 +44,7 @@ experience:
     date_start: '2021-08-09'
     date_end: '2022-05-15'
     description: |2-
-      Taught electronic engineering and researched semiconductor physics.
+      Head TA for EEE 360: Energy Systems and Power Electronics. EEE 360 is the core course for power area.
 
   - title: Graduate Service Assistant
     company: Arizona State University
